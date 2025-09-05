@@ -1,5 +1,5 @@
 \.git
 \.gitignore
+Makefile
 Brewfile
-README.md
-.prettierrc.json
+
